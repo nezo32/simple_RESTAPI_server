@@ -1,3 +1,13 @@
-go.sum
+go.work
+
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+*.test
+
+*.out
 
 .vscode
